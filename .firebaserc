@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "uastekweb": {
+      "hosting": {
+        "my-App": [
+          "uastekweb"
+        ]
+      }
+    }
+  }
+}
